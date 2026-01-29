@@ -1,1 +1,7 @@
-__pycache__/\n*.pt\ncheckpoints/\ndata/
+__pycache__/
+*.pt
+checkpoints/
+.venv/
+data/*
+!data/*.py
+!data/__init__.py
